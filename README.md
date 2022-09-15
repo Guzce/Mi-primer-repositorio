@@ -1,3 +1,8 @@
 # Mi-primer-repositorio
+#Aprendiendo a programar :computer:
 
-tarea github UTN (i like :walking:. I have :dog2: and :cat2:)
+#i like :walking: :walking: with my :dog2: :dog2: and :cat2:
+
+#i like playing computer games
+
+#my favorite food are :pizza: :apple: :orange:
