@@ -1,8 +1,9 @@
 # Mi-primer-repositorio
+
 #Aprendiendo :books: a programar :computer:
 
-#i like :walking: :running: :walking: with my :dog2: :dog2: and :cat2:
+#I like :walking: :running: and :walking: with my pets :dog2: :dog2: and :cat2:
 
-#i like playing :video_game: computer games
+#In my free time i like playing :video_game: computer games
 
-#my favorite food are :pizza: :apple: :orange:
+#My favorite food are :pizza: :apple: :orange:
